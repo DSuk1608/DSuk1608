@@ -1,10 +1,13 @@
 <template>
-$END$
+  <nav>
+  <NuxtLink to="/">test</NuxtLink>
+  <NuxtLink to="/test">test toch</NuxtLink>
+  </nav>
 </template>
 
 <script>
 export default {
-name: "NavBar"
+  name: "NavBar"
 }
 </script>
 
