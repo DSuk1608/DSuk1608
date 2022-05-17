@@ -1,7 +1,6 @@
 <template>
   <nav>
     <NavBar/>
-    <Tutorial/>
   </nav>
 </template>
 

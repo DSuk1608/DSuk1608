@@ -1,5 +1,7 @@
 <template>
-<tutorial />
+<h2>
+  ja toch
+</h2>
 </template>
 
 <script>
