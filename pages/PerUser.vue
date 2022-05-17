@@ -20,7 +20,7 @@ export default {
   data() {
     return {
       programlang: [
-        {name: 'PHP', width:'55', procent:'85'},
+        {name: 'PHP', width:'55'},
         {name: 'Javascript',width:'90'},
         {name: 'Vue.js',width:'75'},
         {name: 'React.js', width:'30'},
