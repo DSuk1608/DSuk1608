@@ -3,6 +3,7 @@
 <!--    only pages navigate NO COMPONENTS-->
     <NuxtLink to="/">test</NuxtLink>
     <NuxtLink to="/test">test toch</NuxtLink>
+    <NuxtLink to="/Users">Users</NuxtLink>
   </nav>
 </template>
 
