@@ -1,7 +1,8 @@
 <template>
   <nav>
-  <NuxtLink to="/">test</NuxtLink>
-  <NuxtLink to="/test">test toch</NuxtLink>
+<!--    only pages navigate NO COMPONENTS-->
+    <NuxtLink to="/">test</NuxtLink>
+    <NuxtLink to="/test">test toch</NuxtLink>
   </nav>
 </template>
 

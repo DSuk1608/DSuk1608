@@ -1,6 +1,7 @@
 <template>
   <nav>
     <NavBar/>
+    <MidSection/>
   </nav>
 </template>
 
